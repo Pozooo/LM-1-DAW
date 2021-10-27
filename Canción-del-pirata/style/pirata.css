@@ -1,0 +1,14 @@
+/*Hoja de estilo de la canción del pirata de espronceda*/
+body {background-color: rgb(0, 0, 0);
+        background-image: url("../images/background.jpg");
+        /*puedo cambiar el tamaño de la imagen*/
+        background-size: 200px 200px;
+        /*puedo cambiar el efecto repetición. Por defecto se repite en horizontal y vertical*/
+        /*background-repeat: repeat-y;*/
+        margin: 0;
+        padding: 0;}
+#container {background-color: rgba(255, 255, 255, 0.842);
+            width: 50%;
+            height: 100vh;
+            margin:auto;
+            text-align: center;}

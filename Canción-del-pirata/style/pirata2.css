@@ -1,0 +1,25 @@
+/****** Hoja de estilo del ejercicio INDES2.css de canción del pirata*****/
+@font-face {
+    font-family: miLetra;
+    src: url(../fonts/#container);
+}
+
+body{background-color: blanchedalmond;
+        font-family: miLetra;
+        color: blanchedalmond;}
+#container{background-image: url(../images/imagen\ pirata\ 2.jpg);
+            background-size: cover;/*estira en vertical y horizontal para que quepa una sola vez*/
+            padding: 30px ;
+            background-position: left;
+            width: 90%;
+            margin: auto;
+            }
+#poema{background-image: url(../images/fondo\ 1.jpg);
+        background-position: 80%;
+        width: 300px;
+        text-align: center;
+        text-shadow: honeydew;
+        color: rgb(0, 0, 0);
+        padding: 10px;
+    
+    }
